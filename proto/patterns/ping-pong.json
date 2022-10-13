@@ -1,0 +1,14 @@
+{
+    "name": "ping-pong",
+    "pattern": {
+        "connectionless": "True",
+        "served": "True",
+        "data": [
+            {
+                "name": "data",
+                "type": "string",
+                "size": 2044
+            }
+        ]
+    }
+}
